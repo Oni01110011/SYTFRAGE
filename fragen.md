@@ -13,9 +13,6 @@ Dritter Eintrag Schüler 1: Bernhard
 Dritter Eintrag Schüler 2: Sandip
 Dritter Eintrag Schüler 3: Danilo
 Dritter Eintrag Schüler 4: Mohamed
-<<<<<<< HEAD
-x
-=======
 
 -------------------------------------------------------------------------------------------------
 
@@ -27,9 +24,23 @@ versioniertes Projekt zu initialiesiren oder ein neues zu erstellen.
 
 Was macht git add?
 A: Git add fügt eine Änderung aus dem Arbeitsverzeichnis dem Staging environment zu. Das 
-bedeutet man sagt git, das git die Änderung der Datei beim nächsten commit mit einbeziehen 
+bedeutet man sagt Git, das Git die Änderung der Datei beim nächsten commit mit einbeziehen 
 soll.    
->>>>>>> b81a7eebc09889f2c1630f5cd2705e8546e32eb8
-Was Macht git pull?
+
+Was macht git status?
+A: Git status gibt den Status eines Arbeitsverzeichnises und einer Stagging-Umgebung wieder. 
+So kannst du sehen welche Datei Änderung sich im Arbeitsverzeichnis zufinden sind und welche 
+nicht von Git getrackt werden.
+
+Was macht Git diff? 
+A: Git diff vergleicht Git elemente miteinander. Zu Git elementen zählen commits, branches, 
+dateien etc. sein.
+
+Was macht Git log?
+A: Git logt zeigte alle bereits commiteten Snapshots inklusive der Ersteller und der 
+Nachricht an. Demnach lässt er anwenden den Projektverlauf anzeigen, filtern oder nach 
+spezifischen Änderungen suchen.  
+
+Was macht git pull?
 A: Dieser Befehl dient zur Synchronisierung von Remote-Inhalten. Dabei wird ein Befehl in ein 
-Remote-Repository hochzuladen. x
+Remote-Repository hochgeladen.
