@@ -41,6 +41,19 @@ A: Git logt zeigte alle bereits commiteten Snapshots inklusive der Ersteller und
 Nachricht an. Demnach lässt er anwenden den Projektverlauf anzeigen, filtern oder nach 
 spezifischen Änderungen suchen.  
 
+Was macht git commit?
+A: Git commit dient dazu den Status eines Projekts zu aktualisieren. Somit lässt sich sagen das
+diese auch als Snapshots oder Meilensteine bezeichnet werden können. 
+
+Was macht git clone?
+A: Git clone wird dazu verwendet um auf ein bestehendes Repository zu verweisen und in 
+einem neuen Verzeichnis unter einem neuen Speicherort einen Klon oder eine Kopie diese Repositorys
+zu erstellen. 
+
+Was macht git push?
+A: Git push wir dazu verwendet, um lokale Änderungen in einem zentralen Repository zu 
+veröffentlichen und hochzuladen. 
+
 Was macht git pull?
 A: Dieser Befehl dient zur Synchronisierung von Remote-Inhalten. Dabei wird ein Befehl in ein 
 Remote-Repository hochgeladen.
